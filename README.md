@@ -6,3 +6,6 @@ I have written a complete python notebook file in python on Digits recognition w
 The code is all explained in one jupyter notebook with a very detailed understanding of how the gradient descent works, the epoch for each iteration and the whole concepts.
 
 Feed forward and backpropagation, are all defined with sigmoid logistic function for flatening etc.
+
+
+The current notebook uses CIFAR10 dataset
